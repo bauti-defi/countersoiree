@@ -1,3 +1,5 @@
+# Runs Jest tests
+
 name: Run Tests
 
 on:
