@@ -23,7 +23,7 @@ jobs:
           node-version: '16'
 
       - name: Install dependencies
-        uses: yarn
+        run: yarn
 
       - name: Run tests
         run: |
